@@ -17,4 +17,8 @@ Main tasks for this analysis:
   and explain how you reached your conclusions.
   
  ### Main Packages used:
- 
+* Pandas
+* Numpy
+* Plotly.express
+* Matplotlib
+* Seaborn
